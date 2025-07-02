@@ -11,7 +11,7 @@ A simple and responsive car image gallery built with HTML and CSS. This project 
 
 ## Preview
 
-![Gallery Screenshot](https://images.unsplash.com/photo-1617083278485-ed52e6a8decb?w=500&auto=format&fit=crop&q=60)
+![Gallery Screenshot](![Image](https://github.com/user-attachments/assets/1c2ff522-0405-4e97-a448-8299c3b3eb6b))
 
 ## Getting Started
 
